@@ -6,6 +6,10 @@ Es una version simple de mi proyecto **eXecuJar**, que sirve para ejecutar con d
 
 ![Image](https://github.com/Andr7st/index/blob/main/support/images/exJar_img1.png)
 
+<br>
+
+* El sistema windows debe tener JAVA_HOME configurado para poder funcionar.
+
 ---
 
-[**index**](https://github.com/Andr7st/index/)
+[**Andr7st**](https://github.com/Andr7st/index/)

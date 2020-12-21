@@ -8,7 +8,7 @@ Es una version simple de mi proyecto **eXecuJar**, que sirve para ejecutar con d
 
 <br>
 
-* El sistema windows debe tener JAVA_HOME configurado para poder funcionar.
+* El sistema windows debe tener **JAVA_HOME** configurado para poder funcionar.
 
 ---
 
